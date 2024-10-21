@@ -1,0 +1,45 @@
+table,
+tr,
+th,
+td {
+  border: 1px solid black;
+  border-collapse: collapse;
+  padding: 20px;
+  text-align: center;
+}
+thead {
+  background-color: green;
+  color: white;
+}
+.page {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+.heading {
+  color: #9900cc;
+}
+.paragraph {
+  color: #333333;
+}
+.list {
+  color: #008000;
+}
+.form_div {
+  border: 1px solid black;
+  width: 500px;
+  padding: 10px;
+}
+form {
+  width: 480px;
+}
+
+.input {
+  width: 100%;
+  padding: 10px;
+  display: block;
+  margin-bottom: 10px;
+}
+.submit {
+  background-color: green;
+  border: none;
+  color: white;
+}
